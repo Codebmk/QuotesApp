@@ -1,0 +1,3 @@
+rootProject.name = 'QuotesGeneratingApp'
+
+include ':app'
